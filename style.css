@@ -1,10 +1,12 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: url('a.jpg');  
+    background: url('https://as2.ftcdn.net/v2/jpg/01/41/30/65/1000_F_141306542_myDIyFZv2O0w9R5ytPKL9EsFz5wp7Tpj.jpg');  
     color: white ;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1690px;
 }
 .left{
     position: absolute;
